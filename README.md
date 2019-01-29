@@ -11,7 +11,7 @@ Test-First-Builders is a series of programming exercises designed to increase yo
 Test-First-Builders will have you apply all the basic concepts and increase your understanding and confidence to problem solve.  For each exercise, there will be a README.md that will provide an overview of the problem (and possibly a few additional hints on how to approach the problem). 
 
 
-## Assignment Hello World!!!!
+## Assignment 
 
 To get a great overview of what TestFirst learning and development is watch the following video about [TestFirst](https://www.youtube.com/watch?v=8MRDJPHMpaQ).
 
