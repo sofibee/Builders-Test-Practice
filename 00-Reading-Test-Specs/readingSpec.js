@@ -4,7 +4,7 @@ describe('the function `hello`', function() {
   });
 
   it('says hello to someone', function() {
-    expect(hello('Fred')).toEqual('Hello Fred!');
+    expect(hello('Fred')).toEqual('Hello, Fred!');
   });
 });
 
@@ -24,6 +24,6 @@ describe('the function `add`', function() {
   it('adds 7 and 8, the value returned is 15', function() {
     returnValue += add(7, 8);
 
-    expect(returnValue).toEqual(15);
+    expect(returnValue).toEqual(24);
   });
 });
